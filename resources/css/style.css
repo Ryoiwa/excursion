@@ -1,0 +1,30 @@
+body {
+	background-color: black;
+	text-align: center;
+	font-family: verdana;
+}
+
+h1 {
+	color: white;
+	font-size: 42px;
+	font-weight: 300;
+}
+
+h1 #first {
+	font-size: 50px;
+	font-weight: normal;
+}
+
+.download {
+	color: Aquamarine;
+	font-size: 16px;
+}
+#explain {
+	font-size: 21px;
+	color: grey;
+}
+
+footer {
+	color: grey;
+	text-align: right;
+}
